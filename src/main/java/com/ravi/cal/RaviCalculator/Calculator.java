@@ -45,7 +45,7 @@ public class Calculator {
    Scanner sc = new Scanner(System.in);
 
    System.out.println("Enter the first numeric value:");
-   long first = sc.nextlong();
+   long first = sc.nextLong();
    cc.setFirst(first);
 
    System.out.println("Enter the second numeric value:");
