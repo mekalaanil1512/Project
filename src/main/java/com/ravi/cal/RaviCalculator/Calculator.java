@@ -20,7 +20,7 @@ public class Calculator {
        return second;
      }
 
-    public void setSecond(long second{
+    public void setSecond(long second){
         this.second = second;
     }
 
